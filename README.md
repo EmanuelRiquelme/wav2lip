@@ -41,7 +41,7 @@ Getting the weights
 | :-------------: | :---------------: | :---------------: |
 | Wav2Lip + GAN  | Slightly inferior lip-sync, but better visual quality | [Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW) |
 
-## Paste the wav2lip_gan.pth in the directory checkpoints. 
+#### Paste the wav2lip_gan.pth in the directory checkpoints. 
 
 Lip-syncing videos using the pre-trained models (Inference)
 -------
