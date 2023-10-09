@@ -12,7 +12,6 @@ This code is part of the paper: _A Lip Sync Expert Is All You Need for Speech to
 |:-:|:-:|:-:|:-:|:-:|
 [Paper](http://arxiv.org/abs/2008.10010) | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Demo Video](https://youtu.be/0fXaDCZNOJc) | [Interactive Demo](https://bhaasha.iiit.ac.in/lipsync) | [Colab Notebook](https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8?usp=sharing) /[Updated Collab Notebook](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH)
 
- <img src="https://drive.google.com/uc?export=view&id=1Wn0hPmpo4GRbCIJR8Tf20Akzdi1qjjG9"/>
 
 ----------
 **Highlights**
@@ -42,7 +41,7 @@ Getting the weights
 | :-------------: | :---------------: | :---------------: |
 | Wav2Lip + GAN  | Slightly inferior lip-sync, but better visual quality | [Link](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/radrabha_m_research_iiit_ac_in/EdjI7bZlgApMqsVoEUUXpLsBxqXbn5z8VTmoxp55YNDcIA?e=n9ljGW) |
 
-Paste the wav2lip_gan.pth in the directory checkpoints. 
+## Paste the wav2lip_gan.pth in the directory checkpoints. 
 
 Lip-syncing videos using the pre-trained models (Inference)
 -------
